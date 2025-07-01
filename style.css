@@ -1,0 +1,160 @@
+#Logo{
+    height: 80px;
+    width: 105px;
+}
+#Alogo{
+    margin-right: 65%;
+}
+#DivColorida {
+    display: flex;
+    flex-direction: column;
+    background-image: 
+    linear-gradient(to bottom right, rgb(29, 15, 226), rgba(2, 56, 107, 0.8), rgba(122, 14, 211, 0.8)),
+    url('download.jpeg');
+  background-size: cover;
+  background-position: center;
+    align-content: center;
+}
+
+#Head1 {
+    display: flex;
+    align-items: center; 
+    gap: 20px; 
+}
+a{
+    text-decoration: none;
+    margin-left: 20px;
+    color: white;
+    text-transform: uppercase;
+
+}
+
+.luaA{
+    margin: 0 0 0 140px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+#Perfil{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    margin: 0 0 0 8%;
+       
+}
+#Pesquisa{
+    border: 0;
+    border-radius: 80px;
+    height: 50px;
+    width: 50%;
+    background-color: white;
+}
+#Conteudo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 500px;
+    text-align: center;
+}
+#Flutuantes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: -175px;
+    height: 350px;
+    width: 100%;
+    background: rgba(164, 241, 255, 0);
+}
+#Resto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+   background: linear-gradient(to right, white, silver, gray);
+}
+#Flut1{
+    height: 100%;
+    width: 30%;
+    background-image: 
+    linear-gradient(to bottom right, rgb(133, 138, 139), rgb(163, 167, 168)),
+    url('download\ \(1\).jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius: 30px;
+    margin-right:10%;
+}
+#Flut2{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: 100%;
+    background-image: 
+    linear-gradient(to bottom right, rgb(236, 209, 54), rgb(245, 133, 59)),
+    url('download\ \(2\).jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius: 30px;
+}
+input{
+    height: 95%;
+    width: 90%;
+    text-decoration: none;
+    border: none;
+}
+#img{
+    height: 20px;
+    width: 20px;
+}
+#Logos{
+    width: 46px;
+    height: 40px;
+
+}
+p{
+    padding: 10%;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+#Links{
+    margin-top: 10%;
+    margin-right: 65%;
+}
+#Previws{
+    border-radius: 40px;
+    height: 150px;
+    width: 250px;
+}
+
+#Row{
+    display: flex;
+    flex-direction: row;
+}
+#Collum{
+    display: flex;
+    flex-direction: column;
+}
+#H12{
+    margin-top: 100px;
+  
+}
+
+.luaFoto{
+    width: 110px;
+    height:75px ;
+}
+
+.EuropaImage {
+    width: 100px;
+    height: 75px;
+    margin: 0 0 0 41%;
+}
+
+.botaoFabio {
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+    background-color: rgb(35, 212, 74);
+    border-radius: 15%;
+}
